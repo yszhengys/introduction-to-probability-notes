@@ -1,16 +1,16 @@
 # Thoughts Index
 
-这里放还没有完全整理好的想法、疑问、直觉和学习日志。
+This folder contains informal notes that are not yet polished: questions, intuitions, possible connections, and study logs.
 
 ## Current Notes
 
 - [[Reading Log]]
 - [[Questions]]
 
-## How I Use This Folder
+## Use
 
-- 看书时突然想到的问题，先放这里。
-- 对定理的直觉解释，先放这里。
-- 做错的题、卡住的点，也先放这里。
-- 等一个想法足够清楚，再整理到 `Knowledge`。
+- Record questions that arise while reading.
+- Record intuitive explanations before they become formal notes.
+- Record mistakes, stuck points, and alternative solution attempts.
+- Move stable conclusions into `Knowledge`.
 

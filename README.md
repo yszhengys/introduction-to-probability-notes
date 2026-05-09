@@ -1,26 +1,27 @@
 # Introduction to Probability Notes
 
-这是我学习 Dimitri P. Bertsekas 和 John N. Tsitsiklis 的 *Introduction to Probability* 时使用的公开笔记仓库。
+Public study notes for Dimitri P. Bertsekas and John N. Tsitsiklis, *Introduction to Probability*.
 
-推荐的公开方式：把这个 Obsidian vault 作为一个 **public GitHub repository**。主笔记用 Markdown 写，GitHub 可以直接预览；以后有 Python 模拟、小实验或 Jupyter Notebook，也放在同一个仓库里，方便把知识总结和计算实验连在一起。
+This repository is organized as an Obsidian vault and published as a public GitHub repository. Core notes are written in Markdown so they can be edited in Obsidian and viewed directly on GitHub. Python simulations and Jupyter notebooks are stored in the same repository when computation helps clarify a probability concept.
 
 ## Structure
 
-- [Knowledge](Knowledge/00%20-%20Index.md): 概念、定义、定理、公式、例题总结。
-- [Thoughts](Thoughts/00%20-%20Index.md): 自己的问题、直觉、误区、学习日志和开放想法。
-- [Simulations](Simulations/README.md): Python 概率模拟、小项目、图像和 notebook。
+- [Knowledge](Knowledge/00%20-%20Index.md): polished summaries of concepts, definitions, theorems, formulas, examples, and common mistakes.
+- [Thoughts](Thoughts/00%20-%20Index.md): informal questions, intuitions, possible connections, and study logs.
+- [Simulations](Simulations/README.md): Python simulations, small computational projects, figures, and notebooks.
 
-## Writing Rules
+## Repository Rules
 
-- 用自己的话总结，不整段搬运教材原文。
-- 重要公式用 LaTeX，例如 `$P(A \mid B) = \frac{P(A \cap B)}{P(B)}$`。
-- 每条知识点尽量记录三个部分：它是什么、为什么重要、什么时候会用错。
-- 想法和疑问不要强行整理成熟结论，先放进 `Thoughts`，以后再迁移到 `Knowledge`。
+- All public notes should be written in English.
+- Notes should summarize ideas in original wording instead of copying long passages from the textbook.
+- Important formulas should be written in LaTeX, for example `$P(A \mid B) = \frac{P(A \cap B)}{P(B)}$`.
+- Knowledge notes should aim to answer three questions: what the concept says, why it matters, and where mistakes commonly occur.
+- Informal ideas may start in `Thoughts`; polished material can later be moved into `Knowledge`.
 
 ## Workflow
 
-1. 在 Obsidian 中写 Markdown 笔记。
-2. 在 `Simulations` 中写 Python 脚本或 Jupyter Notebook。
-3. 用 Git 把修改提交到 GitHub。
-4. GitHub 仓库设为 public 后，这个仓库本身就是公开笔记。
+1. Write the main notes in Obsidian as Markdown files.
+2. Add Python scripts or Jupyter notebooks under `Simulations` when a topic benefits from computation.
+3. Commit changes with Git.
+4. Push the repository to GitHub and keep it public.
 

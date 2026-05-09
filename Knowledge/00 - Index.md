@@ -1,24 +1,26 @@
 # Knowledge Index
 
-这里放正式的知识点总结：定义、定理、公式、例题模式和常见误区。
+This folder contains polished study notes: definitions, propositions, formulas, example patterns, proof ideas, and common mistakes.
 
 ## Current Map
 
-- [[Probability Basics]]
+- [[01_Sample Space and Probability]]
 
 ## Note Template
 
 ```markdown
 # Topic
 
-## Core Idea
+## Scope
 
-## Formal Statement
+## Core Definitions
+
+## Key Formulas
 
 ## Intuition
 
 ## Common Mistakes
 
-## Example
+## Exam Checklist
 ```
 

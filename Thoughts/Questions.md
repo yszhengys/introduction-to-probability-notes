@@ -2,7 +2,7 @@
 
 ## Open Questions
 
-- 一个概率题中，怎样判断样本空间应该怎么选？
-- 什么时候可以默认所有基本结果等可能？
-- 条件概率和贝叶斯公式在直觉上最容易混淆的地方是什么？
+- How should the sample space be chosen for a probability problem?
+- When is it legitimate to assume that all elementary outcomes are equally likely?
+- What is the most reliable way to distinguish $P(A \mid B)$ from $P(B \mid A)$?
 

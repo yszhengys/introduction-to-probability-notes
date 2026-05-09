@@ -1,19 +1,20 @@
 # Simulations
 
-这里放 Python 概率模拟、小实验和 Jupyter Notebook。
+This folder contains Python simulations, small computational projects, figures, and Jupyter notebooks related to probability.
 
-建议先从小脚本开始，例如：
+Good starter projects:
 
-- 掷骰子模拟
-- 伯努利试验和二项分布
-- 大数定律可视化
-- 条件概率模拟
+- dice-roll simulations
+- Bernoulli trials and the binomial distribution
+- visual simulations of the law of large numbers
+- conditional probability simulations
+- Bayes' rule examples
 
 ## Suggested Files
 
-- `*.py`: 简单、可复现的小模拟。
-- `*.ipynb`: 需要图表、解释文字和交互输出的 notebook。
-- `requirements.txt`: 项目依赖。
+- `*.py`: small reproducible simulations.
+- `*.ipynb`: notebooks with explanations, plots, and outputs.
+- `requirements.txt`: Python dependencies.
 
 ## Setup
 
