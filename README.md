@@ -10,18 +10,7 @@ This repository is organized as an Obsidian vault and published as a public GitH
 - [Thoughts](Thoughts/00%20-%20Index.md): informal questions, intuitions, possible connections, and study logs.
 - [Simulations](Simulations/README.md): Python simulations, small computational projects, figures, and notebooks.
 
-## Repository Rules
 
-- All public notes should be written in English.
-- Notes should summarize ideas in original wording instead of copying long passages from the textbook.
-- Important formulas should be written in LaTeX, for example `$P(A \mid B) = \frac{P(A \cap B)}{P(B)}$`.
-- Knowledge notes should aim to answer three questions: what the concept says, why it matters, and where mistakes commonly occur.
-- Informal ideas may start in `Thoughts`; polished material can later be moved into `Knowledge`.
 
-## Workflow
 
-1. Write the main notes in Obsidian as Markdown files.
-2. Add Python scripts or Jupyter notebooks under `Simulations` when a topic benefits from computation.
-3. Commit changes with Git.
-4. Push the repository to GitHub and keep it public.
 
