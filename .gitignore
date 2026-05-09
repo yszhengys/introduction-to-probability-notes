@@ -1,0 +1,31 @@
+# Obsidian local state
+.obsidian/
+.trash/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and generated outputs
+Simulations/data/
+Simulations/output/
+Simulations/outputs/
+Simulations/figures/generated/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+desktop.ini
