@@ -2,8 +2,6 @@
 
 Public study notes for Dimitri P. Bertsekas and John N. Tsitsiklis, *Introduction to Probability*.
 
-
-
 ## Structure
 
 - [Knowledge](Knowledge/00%20-%20Index.md): polished summaries of concepts, definitions, theorems, formulas, examples, and common mistakes.
